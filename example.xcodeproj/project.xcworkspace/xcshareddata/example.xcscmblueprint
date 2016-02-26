@@ -4,20 +4,27 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "C8B3BF1116452BB298A0A7878FE23457C3AE1F46" : 0,
+    "2DE9C8846D9375EAACFABA8963120E8E7719BAF5" : 0,
+    "392FC08E0B60E45DE8ABC02DB0ABE45EE7F04161" : 0,
     "ED76853E2B35CA572D965A37CB2B34326D97D520" : 0,
-    "392FC08E0B60E45DE8ABC02DB0ABE45EE7F04161" : 0
+    "C8B3BF1116452BB298A0A7878FE23457C3AE1F46" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EBA18FED-FE98-4498-B409-D923B1840131",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "C8B3BF1116452BB298A0A7878FE23457C3AE1F46" : "..\/..\/addons\/ofxLeapMotion",
+    "2DE9C8846D9375EAACFABA8963120E8E7719BAF5" : "..\/..",
+    "392FC08E0B60E45DE8ABC02DB0ABE45EE7F04161" : "leap&model\/",
     "ED76853E2B35CA572D965A37CB2B34326D97D520" : "..\/..\/addons\/ofxLeapMotion2",
-    "392FC08E0B60E45DE8ABC02DB0ABE45EE7F04161" : "leap&model\/"
+    "C8B3BF1116452BB298A0A7878FE23457C3AE1F46" : "..\/..\/addons\/ofxLeapMotion"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "example",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "example.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/openframeworks\/openFrameworks",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DE9C8846D9375EAACFABA8963120E8E7719BAF5"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/morbozoo\/smirnoffEDC.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",

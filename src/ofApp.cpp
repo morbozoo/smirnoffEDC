@@ -222,7 +222,7 @@ void ofApp::update(){
     
     for(unsigned int i = 0; i < p.size(); i++){
         p[i].setMode(currentMode);
-        p[i].update(particles[0].pos);
+      //  p[i].update(particles[0].pos);
     }
     
     //lets add a bit of movement to the attract points
