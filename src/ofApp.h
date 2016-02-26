@@ -46,9 +46,13 @@ public:
     
     
     //------------------MODEL LOADER-------------------
-    ofxAssimpModelLoader model;
+    ofxAssimpModelLoader jar;
+    ofxAssimpModelLoader vodka;
+    ofxAssimpModelLoader salsa;
+    ofxAssimpModelLoader lata;
+    ofxAssimpModelLoader sal;
+    ofxAssimpModelLoader limon;
     
-    vector<ofxAssimpModelLoader> modelos;
     
     bool bAnimate;
     bool bAnimateMouse;
@@ -57,9 +61,13 @@ public:
     ofMesh mesh;
     ofLight	light;
     ofLight pointLight;
+    ofLight pointLight2;
+    ofLight pointLight3;
+    ofLight pointLight4;
     
     //------------------EXTRAS-------------------------
     ofVideoPlayer player;
+    ofImage bump;
     float size1Cont;
     
     vector<particle> particles;
